@@ -1,0 +1,456 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">collidingmice.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">collidingmice</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">Release</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="QtVersionId" type="int">0</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\Documents and Settings\All Users</value>
+    <value type="QString">APPDATA=C:\Documents and Settings\student\Dane aplikacji</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=SPK</value>
+    <value type="QString">COMSPEC=C:\WINDOWS\system32\cmd.exe</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\</value>
+    <value type="QString">LOGONSERVER=\\SPK</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=1</value>
+    <value type="QString">NWLANGUAGE=English</value>
+    <value type="QString">NWUSERNAME=Porebski</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=C:\Qt\2010.02.1\mingw\bin;C:\Qt\2010.02.1\qt\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;c:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\WINDOWS\system32\nls;C:\WINDOWS\system32\nls\ENGLISH;C:\Program Files\SSH Communications Security\SSH Secure Shell;Y:.;S:.;Q:.;N:.;U:.;T:.;W:.;</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=x86 Family 15 Model 2 Stepping 7, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=15</value>
+    <value type="QString">PROCESSOR_REVISION=0207</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files</value>
+    <value type="QString">QTDIR=C:/Qt/2010.02.1/qt</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\WINDOWS</value>
+    <value type="QString">TEMP=C:\DOCUME~1\student\USTAWI~1\Temp</value>
+    <value type="QString">TMP=C:\DOCUME~1\student\USTAWI~1\Temp</value>
+    <value type="QString">USERDOMAIN=SPK</value>
+    <value type="QString">USERNAME=student</value>
+    <value type="QString">USERPROFILE=C:\Documents and Settings\student</value>
+    <value type="QString">VS90COMNTOOLS=C:\Program Files\Microsoft Visual Studio 9.0\Common7\Tools\</value>
+    <value type="QString">WINDIR=C:\WINDOWS</value>
+    <value type="QString">WINDOWS_LOGIN=0</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">D:/Myszy/collidingmice_0_1/collidingmice.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">win32-g++</value>
+    <value type="QString">-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">c:/qt/2010.02.1/qt/bin/qmake.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">D:/Myszy/collidingmice_0_1</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\Documents and Settings\All Users</value>
+    <value type="QString">APPDATA=C:\Documents and Settings\student\Dane aplikacji</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=SPK</value>
+    <value type="QString">COMSPEC=C:\WINDOWS\system32\cmd.exe</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\</value>
+    <value type="QString">LOGONSERVER=\\SPK</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=1</value>
+    <value type="QString">NWLANGUAGE=English</value>
+    <value type="QString">NWUSERNAME=Porebski</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=C:\Qt\2010.02.1\mingw\bin;C:\Qt\2010.02.1\qt\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;c:\Program Files\Microsoft SQL Server\90\Tools\binn\;C:\WINDOWS\system32\nls;C:\WINDOWS\system32\nls\ENGLISH;C:\Program Files\SSH Communications Security\SSH Secure Shell;Y:.;S:.;Q:.;N:.;U:.;T:.;W:.;</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=x86 Family 15 Model 2 Stepping 7, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=15</value>
+    <value type="QString">PROCESSOR_REVISION=0207</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files</value>
+    <value type="QString">QTDIR=C:/Qt/2010.02.1/qt</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\WINDOWS</value>
+    <value type="QString">TEMP=C:\DOCUME~1\student\USTAWI~1\Temp</value>
+    <value type="QString">TMP=C:\DOCUME~1\student\USTAWI~1\Temp</value>
+    <value type="QString">USERDOMAIN=SPK</value>
+    <value type="QString">USERNAME=student</value>
+    <value type="QString">USERPROFILE=C:\Documents and Settings\student</value>
+    <value type="QString">VS90COMNTOOLS=C:\Program Files\Microsoft Visual Studio 9.0\Common7\Tools\</value>
+    <value type="QString">WINDIR=C:\WINDOWS</value>
+    <value type="QString">WINDOWS_LOGIN=0</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">C:/Qt/2010.02.1/mingw/bin/mingw32-make.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">D:/Myszy/collidingmice_0_1</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Debug</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-hmImtupntz,guid=96bb8aa42e4181ac4beb17e000000029</value>
+    <value type="QString">DESKTOP_SESSION=default</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">DM_CONTROL=/var/run/xdmctl</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/gpg-0oa0g6/S.gpg-agent:1949:1</value>
+    <value type="QString">GS_LIB=/home/railis/.fonts</value>
+    <value type="QString">GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/railis/.gtkrc-2.0:/home/railis/.gtkrc-2.0-kde4:/home/railis/.kde4/share/config/gtkrc-2.0</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/railis/.gtkrc::/home/railis/.kde4/share/config/gtkrc</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTCONTROL=erasedups</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/home/railis</value>
+    <value type="QString">INPUTRC=/etc/inputrc</value>
+    <value type="QString">JAVA_HOME=/opt/java/jre</value>
+    <value type="QString">KDE_FULL_SESSION=true</value>
+    <value type="QString">KDE_MULTIHEAD=false</value>
+    <value type="QString">KDE_SESSION_UID=1000</value>
+    <value type="QString">KDE_SESSION_VERSION=4</value>
+    <value type="QString">LANG=pl_PL.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/usr/lib/qtcreator:</value>
+    <value type="QString">LESS=-R</value>
+    <value type="QString">LIBGL_ALWAYS_INDIRECT=1</value>
+    <value type="QString">LOGNAME=railis</value>
+    <value type="QString">MANPATH=:/home/railis/.rvm/man</value>
+    <value type="QString">MOZ_PLUGIN_PATH=/usr/lib/mozilla/plugins</value>
+    <value type="QString">OOO_FORCE_DESKTOP=gnome</value>
+    <value type="QString">PATH=/usr/bin:/home/railis/.rvm/bin:/bin:/usr/bin:/sbin:/usr/sbin:/opt/java/jre/bin:/usr/lib/perl5/vendor_perl/bin:/usr/lib/perl5/core_perl/bin:/opt/qt/bin</value>
+    <value type="QString">PKG_CONFIG_PATH=/usr/lib/pkgconfig:/opt/qt/lib/pkgconfig</value>
+    <value type="QString">PS3=> </value>
+    <value type="QString">PS4=+ </value>
+    <value type="QString">PWD=/home/railis</value>
+    <value type="QString">QTDIR=/usr/share/qt</value>
+    <value type="QString">QT_PLUGIN_PATH=/home/railis/.kde4/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString">QT_XFT=true</value>
+    <value type="QString">SESSION_MANAGER=local/majhost:@/tmp/.ICE-unix/1992,unix/majhost:/tmp/.ICE-unix/1992</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_AGENT_PID=1952</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/ssh-jmbtrh1951/agent.1951</value>
+    <value type="QString">USER=railis</value>
+    <value type="QString">WINDOWPATH=7</value>
+    <value type="QString">XCURSOR_THEME=Oxygen_White</value>
+    <value type="QString">XDG_CACHE_HOME=/home/railis/.cache</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg</value>
+    <value type="QString">XDG_CONFIG_HOME=/home/railis/.config</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share:/usr/local/share</value>
+    <value type="QString">XDG_DATA_HOME=/home/railis/.local/share</value>
+    <value type="QString">XDG_SESSION_COOKIE=d6ce7c6347354560bc1eba8c4add9872-1284490730.992335-1504832085</value>
+    <value type="QString">XDM_MANAGED=method=classic</value>
+    <value type="QString">rvm_archives_path=/home/railis/.rvm/archives</value>
+    <value type="QString">rvm_bin_path=/home/railis/.rvm/bin</value>
+    <value type="QString">rvm_config_path=/home/railis/.rvm/config</value>
+    <value type="QString">rvm_gems_cache_path=/home/railis/.rvm/gems/cache</value>
+    <value type="QString">rvm_gems_path=/home/railis/.rvm/gems</value>
+    <value type="QString">rvm_gemset_separator=@</value>
+    <value type="QString">rvm_gemsets_path=/home/railis/.rvm/gemsets</value>
+    <value type="QString">rvm_hooks_path=/home/railis/.rvm/hooks</value>
+    <value type="QString">rvm_log_path=/home/railis/.rvm/log</value>
+    <value type="QString">rvm_patches_path=/home/railis/.rvm/patches</value>
+    <value type="QString">rvm_patchsets_path=/home/railis/.rvm/patchsets</value>
+    <value type="QString">rvm_path=/home/railis/.rvm</value>
+    <value type="QString">rvm_repo_path=/home/railis/.rvm/repos</value>
+    <value type="QString">rvm_rubies_path=/home/railis/.rvm/rubies</value>
+    <value type="QString">rvm_scripts_path=/home/railis/.rvm/scripts</value>
+    <value type="QString">rvm_selfcontained=1</value>
+    <value type="QString">rvm_src_path=/home/railis/.rvm/src</value>
+    <value type="QString">rvm_tmp_path=/home/railis/.rvm/tmp</value>
+    <value type="QString">rvm_version=1.0.1</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/home/railis/projects/collidingmice_0_5/collidingmice.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">linux-g++</value>
+    <value type="QString">-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/railis/projects/collidingmice_0_5</value>
+   <valuelist key="qmakeArgs" type="QVariantList"/>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-hmImtupntz,guid=96bb8aa42e4181ac4beb17e000000029</value>
+    <value type="QString">DESKTOP_SESSION=default</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">DM_CONTROL=/var/run/xdmctl</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/gpg-0oa0g6/S.gpg-agent:1949:1</value>
+    <value type="QString">GS_LIB=/home/railis/.fonts</value>
+    <value type="QString">GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/railis/.gtkrc-2.0:/home/railis/.gtkrc-2.0-kde4:/home/railis/.kde4/share/config/gtkrc-2.0</value>
+    <value type="QString">GTK_RC_FILES=/etc/gtk/gtkrc:/home/railis/.gtkrc::/home/railis/.kde4/share/config/gtkrc</value>
+    <value type="QString">G_BROKEN_FILENAMES=1</value>
+    <value type="QString">HISTCONTROL=erasedups</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/home/railis</value>
+    <value type="QString">INPUTRC=/etc/inputrc</value>
+    <value type="QString">JAVA_HOME=/opt/java/jre</value>
+    <value type="QString">KDE_FULL_SESSION=true</value>
+    <value type="QString">KDE_MULTIHEAD=false</value>
+    <value type="QString">KDE_SESSION_UID=1000</value>
+    <value type="QString">KDE_SESSION_VERSION=4</value>
+    <value type="QString">LANG=pl_PL.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/usr/lib/qtcreator:</value>
+    <value type="QString">LESS=-R</value>
+    <value type="QString">LIBGL_ALWAYS_INDIRECT=1</value>
+    <value type="QString">LOGNAME=railis</value>
+    <value type="QString">MANPATH=:/home/railis/.rvm/man</value>
+    <value type="QString">MOZ_PLUGIN_PATH=/usr/lib/mozilla/plugins</value>
+    <value type="QString">OOO_FORCE_DESKTOP=gnome</value>
+    <value type="QString">PATH=/usr/bin:/home/railis/.rvm/bin:/bin:/usr/bin:/sbin:/usr/sbin:/opt/java/jre/bin:/usr/lib/perl5/vendor_perl/bin:/usr/lib/perl5/core_perl/bin:/opt/qt/bin</value>
+    <value type="QString">PKG_CONFIG_PATH=/usr/lib/pkgconfig:/opt/qt/lib/pkgconfig</value>
+    <value type="QString">PS3=> </value>
+    <value type="QString">PS4=+ </value>
+    <value type="QString">PWD=/home/railis</value>
+    <value type="QString">QTDIR=/usr/share/qt</value>
+    <value type="QString">QT_PLUGIN_PATH=/home/railis/.kde4/lib/kde4/plugins/:/usr/lib/kde4/plugins/</value>
+    <value type="QString">QT_XFT=true</value>
+    <value type="QString">SESSION_MANAGER=local/majhost:@/tmp/.ICE-unix/1992,unix/majhost:/tmp/.ICE-unix/1992</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_AGENT_PID=1952</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/ssh-jmbtrh1951/agent.1951</value>
+    <value type="QString">USER=railis</value>
+    <value type="QString">WINDOWPATH=7</value>
+    <value type="QString">XCURSOR_THEME=Oxygen_White</value>
+    <value type="QString">XDG_CACHE_HOME=/home/railis/.cache</value>
+    <value type="QString">XDG_CONFIG_DIRS=/etc/xdg</value>
+    <value type="QString">XDG_CONFIG_HOME=/home/railis/.config</value>
+    <value type="QString">XDG_DATA_DIRS=/usr/share:/usr/local/share</value>
+    <value type="QString">XDG_DATA_HOME=/home/railis/.local/share</value>
+    <value type="QString">XDG_SESSION_COOKIE=d6ce7c6347354560bc1eba8c4add9872-1284490730.992335-1504832085</value>
+    <value type="QString">XDM_MANAGED=method=classic</value>
+    <value type="QString">rvm_archives_path=/home/railis/.rvm/archives</value>
+    <value type="QString">rvm_bin_path=/home/railis/.rvm/bin</value>
+    <value type="QString">rvm_config_path=/home/railis/.rvm/config</value>
+    <value type="QString">rvm_gems_cache_path=/home/railis/.rvm/gems/cache</value>
+    <value type="QString">rvm_gems_path=/home/railis/.rvm/gems</value>
+    <value type="QString">rvm_gemset_separator=@</value>
+    <value type="QString">rvm_gemsets_path=/home/railis/.rvm/gemsets</value>
+    <value type="QString">rvm_hooks_path=/home/railis/.rvm/hooks</value>
+    <value type="QString">rvm_log_path=/home/railis/.rvm/log</value>
+    <value type="QString">rvm_patches_path=/home/railis/.rvm/patches</value>
+    <value type="QString">rvm_patchsets_path=/home/railis/.rvm/patchsets</value>
+    <value type="QString">rvm_path=/home/railis/.rvm</value>
+    <value type="QString">rvm_repo_path=/home/railis/.rvm/repos</value>
+    <value type="QString">rvm_rubies_path=/home/railis/.rvm/rubies</value>
+    <value type="QString">rvm_scripts_path=/home/railis/.rvm/scripts</value>
+    <value type="QString">rvm_selfcontained=1</value>
+    <value type="QString">rvm_src_path=/home/railis/.rvm/src</value>
+    <value type="QString">rvm_tmp_path=/home/railis/.rvm/tmp</value>
+    <value type="QString">rvm_version=1.0.1</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/home/railis/projects/collidingmice_0_5</value>
+   <valuelist key="makeargs" type="QVariantList"/>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">ALLUSERSPROFILE=C:\ProgramData</value>
+    <value type="QString">APPDATA=C:\Users\Bartek\AppData\Roaming</value>
+    <value type="QString">COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files</value>
+    <value type="QString">COMMONPROGRAMW6432=C:\Program Files\Common Files</value>
+    <value type="QString">COMPUTERNAME=BP</value>
+    <value type="QString">COMSPEC=C:\Windows\system32\cmd.exe</value>
+    <value type="QString">FP_NO_HOST_CHECK=NO</value>
+    <value type="QString">HOMEDRIVE=C:</value>
+    <value type="QString">HOMEPATH=\Users\Bartek</value>
+    <value type="QString">LOCALAPPDATA=C:\Users\Bartek\AppData\Local</value>
+    <value type="QString">LOGONSERVER=\\BP</value>
+    <value type="QString">NUMBER_OF_PROCESSORS=2</value>
+    <value type="QString">OS=Windows_NT</value>
+    <value type="QString">PATH=C:\Qt\2010.02.1\mingw\bin;C:\Qt\2010.02.1\qt\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\xampp\php</value>
+    <value type="QString">PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</value>
+    <value type="QString">PROCESSOR_ARCHITECTURE=x86</value>
+    <value type="QString">PROCESSOR_ARCHITEW6432=AMD64</value>
+    <value type="QString">PROCESSOR_IDENTIFIER=Intel64 Family 15 Model 6 Stepping 4, GenuineIntel</value>
+    <value type="QString">PROCESSOR_LEVEL=15</value>
+    <value type="QString">PROCESSOR_REVISION=0604</value>
+    <value type="QString">PROGRAMDATA=C:\ProgramData</value>
+    <value type="QString">PROGRAMFILES=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMFILES(X86)=C:\Program Files (x86)</value>
+    <value type="QString">PROGRAMW6432=C:\Program Files</value>
+    <value type="QString">PSMODULEPATH=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\</value>
+    <value type="QString">PUBLIC=C:\Users\Public</value>
+    <value type="QString">QTDIR=C:/Qt/2010.02.1/qt</value>
+    <value type="QString">SESSIONNAME=Console</value>
+    <value type="QString">SYSTEMDRIVE=C:</value>
+    <value type="QString">SYSTEMROOT=C:\Windows</value>
+    <value type="QString">TEMP=C:\Users\Bartek\AppData\Local\Temp</value>
+    <value type="QString">TMP=C:\Users\Bartek\AppData\Local\Temp</value>
+    <value type="QString">USERDOMAIN=BP</value>
+    <value type="QString">USERNAME=Bartek</value>
+    <value type="QString">USERPROFILE=C:\Users\Bartek</value>
+    <value type="QString">WINDIR=C:\Windows</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">C:/Qt/2010.02.1/mingw/bin/mingw32-make.exe</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">I:/Myszy/collidingmice_devel</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Debug</value>
+   <value type="QString">Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>

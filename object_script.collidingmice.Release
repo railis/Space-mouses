@@ -1,0 +1,13 @@
+INPUT(
+./release\main.o
+./release\mouse.o
+./release\object.o
+./release\window.o
+./release\player.o
+./release\projectile.o
+./release\customview.o
+./release\explosion.o
+./release\moc_window.o
+./release\moc_customview.o
+./release\qrc_mice.o
+);
